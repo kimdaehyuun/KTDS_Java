@@ -24,6 +24,6 @@ public class Book {
 	public void setPrice(int price) {
 		this.price = price;
 	}
-	//����
+	//한글 인코딩 오류 점검
 
 }
