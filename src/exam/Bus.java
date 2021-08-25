@@ -17,5 +17,6 @@ public class Bus extends Car {
 	public void takePassenger() {
 		System.out.println("승객을 버스에 태웁니다.");
 	}
+	// 오 근데 방금 있던 주석 없어짐
 
 }
