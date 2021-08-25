@@ -17,5 +17,6 @@ public class Bus extends Car {
 	public void takePassenger() {
 		System.out.println("½Â°´À» ¹ö½º¿¡ ÅÂ¿ó´Ï´Ù.");
 	}
+	// ±â¸ðµüµû±¸¸®
 
 }
